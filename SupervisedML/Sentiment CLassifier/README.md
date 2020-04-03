@@ -23,4 +23,8 @@ As described in the data homepage:
 - In order to recreate the notebook results, clone the repo to your local machine.
 - Move to the directory that contains the repo from an anaconda command line
 - Type in conda env create -f environment.yml
-- Once done, type conda activate sentimentclf. Then launch jupyter notebook to recreate the notebook.  
+- Once done, type conda activate sentimentclf. Then launch jupyter notebook to recreate the notebook.
+
+## Demo
+
+- Here's a [demo](http://tung2921.pythonanywhere.com/results) of the trained classifier hosted on PythonEverywhere  
